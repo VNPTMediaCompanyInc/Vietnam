@@ -3,3 +3,5 @@ MyTV Vietnam is a leading Internet-based television(IPTV) and over-the-top (OTT)
 https://raw.githubusercontent.com/7xd9rjyhtv-collab/MyTV-Vietnam/refs/heads/main/MyTV.m3u
 
 ONLY TIVIMATE AND M3U IPTV Android Thank You For Supporting.
+
+You Can Create M3U8 And MPD
