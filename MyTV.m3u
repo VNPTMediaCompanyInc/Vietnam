@@ -1,117 +1,117 @@
 # MyTV-Vietnam
 MyTV is a leading interactive television service in Vietnam, operated by VNPT-Media, a subsidiary of the Vietnam Posts and Telecommunications Group (VNPT). Launched in 2009, it has grown into one of the country's largest IPTV and OTT (Over-the-Top) platforms, offering nearly 200 television channels and a massive library of 70,000 hours.
 #EXTM3U
-#EXTINF:-1,VTV1
+#EXTINF:-1,VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1,VTV2
+#EXTINF:-1,VTV2 HD
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1,VTV3
+#EXTINF:-1,VTV3 HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1,VTV4
+#EXTINF:-1,VTV4 HD
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1,VTV5
+#EXTINF:-1,VTV5 HD
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV5 Tây Nam Bô
+#EXTINF:-1,VTV5 Tây Nam Bô HD
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV5 Tây Nguyên
+#EXTINF:-1,VTV5 Tây Nguyên HD
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV7
+#EXTINF:-1,VTV7 HD
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV8
+#EXTINF:-1,VTV8 HD
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,VTV9
+#EXTINF:-1,VTV9 HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
-#EXTINF:-1,VTV Cân Thô
+#EXTINF:-1,VTV Cân Thô HD
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
-#EXTINF:-1,BOX MOVIE 1
+#EXTINF:-1,BOX MOVIE 1 HD
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
-#EXTINF:-1,BOX HITS
+#EXTINF:-1,BOX HITS HD
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
-#EXTINF:-1,CNA
+#EXTINF:-1,CNA HD
 https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1,CNBC HD
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1,Cartoonito HD
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&amp;stream=1516887&amp;extension=ts&amp;play_token=uMKoUY8Cu7
-#EXTINF:-1,France 24
+#EXTINF:-1,France 24 HD
 https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
-#EXTINF:-1,History
+#EXTINF:-1,History HD
 https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8
-#EXTINF:-1,Hollywood Classics
+#EXTINF:-1,Hollywood Classics HD
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
-#EXTINF:-1,InTheBox
+#EXTINF:-1,InTheBox HD
 https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
-#EXTINF:-1,KBS World
+#EXTINF:-1,KBS World HD
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1,Kix HD
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
-#EXTINF:-1,ON BiBi
+#EXTINF:-1,ON BiBi HD
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1,ON Cine
+#EXTINF:-1,ON Cine HD
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1,ON Golf
+#EXTINF:-1,ON Golf HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
-#EXTINF:-1,ON Kids
+#EXTINF:-1,ON Kids HD
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1,ON Life
+#EXTINF:-1,ON Life HD
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1,ON Movies
+#EXTINF:-1,ON Movies HD
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1,ON Music
+#EXTINF:-1,ON Music HD
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1,ON O2TV
+#EXTINF:-1,ON O2TV HD
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1,ON Phim Viêt
+#EXTINF:-1,ON Phim Viêt HD
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1,Outdoor Channel
+#EXTINF:-1,Outdoor Channel HD
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1,SCTV1
+#EXTINF:-1,SCTV1 HD
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1,SCTV2
+#EXTINF:-1,SCTV2 HD
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
-#EXTINF:-1,SCTV3
+#EXTINF:-1,SCTV3 HD
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
-#EXTINF:-1,SCTV4
+#EXTINF:-1,SCTV4 HD
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1,SCTV6
+#EXTINF:-1,SCTV6 HD
 https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
-#EXTINF:-1,SCTV7
+#EXTINF:-1,SCTV7 HD
 https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1,SCTV8
+#EXTINF:-1,SCTV8 HD
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1,SCTV10
+#EXTINF:-1,SCTV10 HD
 https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8
-#EXTINF:-1,SCTV11
+#EXTINF:-1,SCTV11 HD
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1,SCTV12
+#EXTINF:-1,SCTV12 HD
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1,SCTV13
+#EXTINF:-1,SCTV13 HD
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1,SCTV14
+#EXTINF:-1,SCTV14 HD
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1,SCTV16
+#EXTINF:-1,SCTV16 HD
 https://liveh34.vtvprime.vn/hls/SCTV16/03.m3u8
-#EXTINF:-1,SCTV18
+#EXTINF:-1,SCTV18 HD
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1,SCTV19
+#EXTINF:-1,SCTV19 HD
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
-#EXTINF:-1,SCTV20
+#EXTINF:-1,SCTV20 HD
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
-#EXTINF:-1,SCTV21
+#EXTINF:-1,SCTV21 HD
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
-#EXTINF:-1,SCTV22
+#EXTINF:-1,SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/03.m3u8
-#EXTINF:-1,SCTV Phim Tông Hôp
+#EXTINF:-1,SCTV Phim Tông Hôp HD
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1,HBO HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.m3u8
 #EXTINF:-1,Cinemax HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.m3u8
-#EXTINF:-1,Arirang
+#EXTINF:-1,Arirang HD
 https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
-#EXTINF:-1,Asian Food Network
+#EXTINF:-1,Asian Food Network HD
 https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1,DW HD
 https://liveh12.vtvprime.vn/hls/DW/03.m3u8
 #EXTINF:-1,Discovery HD
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.m3u8
@@ -127,13 +127,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 #EXTINF:-1,Cartoon Network
 Cartoon Network Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1,CinemaWorld
+#EXTINF:-1,CinemaWorld HD
 CinemaWorld Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1,Discovery
 Discovery Asia Vietnam (1080p)
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1,Dreamworks
+#EXTINF:-1,Dreamworks HD
 Dreamworks Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:-1,HBO
@@ -142,7 +142,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1,Cinemax
 Cinemax Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1,DMAX
+#EXTINF:-1,DMAX HD
 DMAX Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1,Warner TV
@@ -151,23 +151,25 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:-1,AXN
 AXN Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1,BBC Earth
+#EXTINF:-1,BBC Earth HD
 BBC Earth Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
-#EXTINF:-1,BBC Lifestyle
+#EXTINF:-1,BBC Lifestyle HD
 BBC Lifestyle Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1,BBC World News
+#EXTINF:-1,BBC World News HD
 BBC World News Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,Bloomberg HD
 Bloomberg Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN HD
 CNN Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
-#EXTINF:-1,TLC
+#EXTINF:-1,TLC HD
 TLC Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1,HGTV
+#EXTINF:-1,HGTV HD
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
+#EXTINF,Cartoon Network HD
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.m3u8
