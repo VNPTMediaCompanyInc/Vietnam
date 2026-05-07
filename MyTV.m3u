@@ -173,3 +173,31 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 #EXTINF:-1,Cartoon Network HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.m3u8
+#EXTINF:-1,Cartoon Kids HD
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1,K+ Action HD (No Longer Available)
+https://live.inplyr.com/room/132343.m3u8
+#EXTINF:-1,K+ Cine HD (No Longer Available)
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1,HTV1 HD
+https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTV2 HD
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTV3 HD
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTV4 HD
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Ca Nhâc HD
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HTVC Plus HD
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1,HBO SD (No Longer Available)
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1,Cinemax SD (No Longer Available)
+https://fl1.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1,HGTV SD
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1,ANTV SD
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1,Fox Sports 1 HD (No Longer Available)
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
