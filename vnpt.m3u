@@ -8,7 +8,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1,VTV3 HD
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1,VTV4 HD
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-29/manifest/VTV4_HD/master.m3u8?timestamp=1779535686&token=072f72d10d548f001e71aaf83c431b3c&wmkid=0&uid=3631255
 #EXTINF:-1,VTV5 HD
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1,VTV5 Tây Nam Bô HD
@@ -26,7 +26,7 @@ https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
 #EXTINF:-1,BOX MOVIE 1 HD
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 #EXTINF:-1,BOX HITS HD
-https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
+https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
 #EXTINF:-1,CNA HD
 https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
 #EXTINF:-1,CNBC HD
@@ -120,7 +120,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.m3u8
 #EXTINF:-1,Cbeebies HD 
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.m3u8
 #EXTINF:-1,AXN HD
-https://tv.ddns.vn/tv/axn/index.m3u8
+https://ec03-pop1-hlc.tv360.vn/bpk-token/dcqjqy4a6odwga3rytprtieymmmkbgdd/bpk-tv/262/output/index.mpd?bkm-query&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.ewogICJleHAiOjE3Nzk1MzYzMjgsCiAgImlzcyI6ImJrbSIsCiAgInZlciI6IjEuMCIsCiAgImlhdCI6MTc3OTUxNDYwOSwKICAic3IiOnsKICAgICAidmVyIjoiMi4wIiwKICAgICAic25hIjoiMjYyX0RBU0giLAogICAgICJwbmEiOiJWaWV0dGVsIiwKICAgICAicm5hIjoiIiwKICAgICAicG4iOiJQT1AtSE4tUE9QMSIsCiAgICAgImVuIjoiRURHRS1ITi1QT1AxIiwKICAgICAiY2MiOiJVUyIsCiAgICAgInJjIjoiQ0EiLAogICAgICJhY24iOiJDT1JFLUhOLVBPUDEiLAogICAgICJpc3AiOiJTcGVjdHJ1bSIsCiAgICAgImFzbiI6IjIwMTE1IiwKICAgICAidnMiOiJCS1M0MDAtUE9QMS0wM18xNzIuMjQuMTcuNjoyMDAwMCIsCiAgICAgIm50IjoiT1RUIiwKICAgICAidHRwIjowLAogICAgICJwbGlkIjoiIiwKICAgICAicHVpZCI6IiIsCiAgICAgInRlaWQiOiIiCiAgfSwKICAib3QiOnsKICAgICAidHMiOjE3Nzk1MTQ2MDksCiAgICAgInVybCI6Ii9icGstdHYvMjYyL291dHB1dC9pbmRleC5tcGQ_bWlucmF0ZT0wJm1heHJhdGU9MTAwMDAwMDAiLAogICAgICJ0b2siOiJkY3FqcXk0YTZvZHdnYTNyeXRwcnRpZXltbW1rYmdkZCIsCiAgICAgImV4dCI6IiIsCiAgICAgImNpcCI6IjEzNC4xNi43Ny4yMDYiLAogICAgICJjaGsiOiBmYWxzZSwKICAgICAic3R0IjoiTk8iLAogICAgICJkc2NwIjowLAogICAgICJzdiI6ewogICAgICAgICJpZCI6IjI2Ml9EQVNIIiwKICAgICAgICAidHlwIjoiTElWRSIKICAgICB9LAogICAgICJ0byI6ewogICAgICAgIAogICAgICAgIAogICAgICAgICJzdSI6MCwKICAgICAgICAicmMiOjE1MAogICAgIH0sCiAgICAgImxheSI6IHsKICAgICAgImxzdCI6W10sCiAgICAgICJtYXgiOjEwMDAwMDAwLAogICAgICAibWluIjowCiAgICAgfSwKICAgICAicnNoIjowLAogICAgICJyc2hwIjoxMDAsCiAgICAgIm9iZiI6ZmFsc2UsCiAgICAgInRhZ3MiOnt9CiAgfQp9.7RKpOpyhbzROSHhN2VDbiAbUZpbkjrfAh4GPQw__ETM
 #EXTINF:-1,Cbeebies
 Cbeebies Asia Vietnam (1080p)
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
