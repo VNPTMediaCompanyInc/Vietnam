@@ -431,3 +431,17 @@ https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png", History
 https://liveh34.vtvprime.vn/hls/HISTORY/02.m3u8
+
+#EXTINF:-1 tvg-id="spotv" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png", SPOTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eeedc51b7ebdc1aa187f867b40fcf8d748d2c1a459cf8c8392e96f6a66287f1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/spotv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="spotv2" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/YD8fbTH.png", SPOTV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eeedc51b7ebdc1aa187f867b40fcf8d748d2c1a459cf8c8392e96f6a66287f1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/spotv2.smil/manifest.mpd
