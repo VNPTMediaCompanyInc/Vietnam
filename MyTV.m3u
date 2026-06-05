@@ -454,3 +454,24 @@ https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtodayhd" group-title="VTV" tvg-logo="https://i.imgur.com/xW9rY7s.png", Viêt Nam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 tvg-id="htvthethao" group-title="HTV", HTV Thê Thao
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png", HTV Key
+https://vc.101vn.com/htv/htvcmb.php?id=2528
+
+#EXTINF:-1 tvg-id="htvccanhac" group-title="HTVC", HTVC Ca Nhac
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvcphim" group-title="HTVC", HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvcphunu" group-title="HTVC", HTVC Phu Nu
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvcplus" group-title="HTVC", HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC", HTVC Thuan Viet
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
