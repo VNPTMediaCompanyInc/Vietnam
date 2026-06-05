@@ -489,3 +489,20 @@ https://livevlisctcdnw.seenow.vn/mean/MAN/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/DRFIT/manifest.mpd
+
+#EXTINF:-1 tvg-id="happykids" group-title="BOX" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png", Happy Kids 
+#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTVLCOPT:http-user-agent="CloudTV"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/HAPPYKIDS/manifest.mpd
+
+#EXTINF:-1 tvg-id="inthebox" group-title="BOX" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", In The Box 
+#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTVLCOPT:http-user-agent="CloudTV"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/INTHEBOX/manifest.mpd
