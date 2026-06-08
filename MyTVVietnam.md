@@ -1,6 +1,6 @@
-MyTV Vietnam is a leading Internet-based television(IPTV) and over-the-top (OTT) service operated by VNPT, serving over 2.5 million subscribers. It provides over 200 domestic and international channels, plus a large Video on Demand (VOD) library, allowing users to watch content on demand, rewind, or record programs on smart TVs, boxes, and mobile.
+Vietnam is a leading Internet-based television(IPTV) and over-the-top (OTT) service operated, It provides over 200 domestic and international channels, plus a large Video on Demand (VOD) library, allowing users to watch content on demand, rewind, or record programs on smart TVs, boxes, and mobile.
 <img width="1206" height="573" alt="image" src="https://github.com/user-attachments/assets/c2b4c966-5773-4190-be49-eafbb69efe8e" />
-https://raw.githubusercontent.com/7xd9rjyhtv-collab/MyTV-Vietnam/refs/heads/main/MyTV.m3u
+https://raw.githubusercontent.com/VNPTMediaCompanyInc/Vietnam/refs/heads/main/Vietnam.m3u
 
 ONLY TIVIMATE AND M3U IPTV Android Thank You For Supporting.
 
