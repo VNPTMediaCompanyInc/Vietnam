@@ -516,3 +516,12 @@ https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="thvl1hd" group-title="THVL" tvg-logo="https://i.imgur.com/5YFsqPx.png", THVL1 HD - Báo và PTTH Vĩnh Long
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+
+#EXTINF:-1 tvg-id="thvl2hd" group-title="THVL" tvg-logo="https://i.imgur.com/iluoazf.png", THVL2 HD - Báo và PTTH Vĩnh Long
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="thvl3hd" group-title="THVL" tvg-logo="https://i.imgur.com/OQXEhqu.png", THVL3 HD - Báo và PTTH Vĩnh Long
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
